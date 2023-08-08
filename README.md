@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 🌱 I’m currently learning in VelTech University
 
 <!--
 **SuryaVamsi160703/SuryaVamsi160703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
