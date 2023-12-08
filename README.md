@@ -1,5 +1,4 @@
-
-                          ![vamsi](https://github.com/SuryaVamsi160703/SuryaVamsi160703/assets/119938692/9b5cbb4e-41f0-4067-a6c1-25af05c24f7b)
+![vamsi](https://github.com/SuryaVamsi160703/SuryaVamsi160703/assets/119938692/9b5cbb4e-41f0-4067-a6c1-25af05c24f7b)
 
 
 <h1 align="center">Hi 👋, I'm Surya Vamsi</h1>
