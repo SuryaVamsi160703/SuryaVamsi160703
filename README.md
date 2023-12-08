@@ -1,5 +1,10 @@
 <p align="center">
-![1 yw0TnheAGN-LPneDaTlaxw](https://github.com/SuryaVamsi160703/SuryaVamsi160703/assets/119938692/2e96a00e-c9d2-40ec-a1f7-8a5090c5eb1a)
+
+
+
+![vamsi](https://github.com/SuryaVamsi160703/SuryaVamsi160703/assets/119938692/9b5cbb4e-41f0-4067-a6c1-25af05c24f7b)
+
+  
 </p>
 
 <h1 align="center">Hi 👋, I'm Surya Vamsi</h1>
