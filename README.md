@@ -1,4 +1,6 @@
+<p align="center">
 ![1 yw0TnheAGN-LPneDaTlaxw](https://github.com/SuryaVamsi160703/SuryaVamsi160703/assets/119938692/2e96a00e-c9d2-40ec-a1f7-8a5090c5eb1a)
+</p>
 
 <h1 align="center">Hi 👋, I'm Surya Vamsi</h1>
 <h3 align="center">A passionate problem solver from India with excellent programming skills, creativity, and prototyping abilities.</h3>
