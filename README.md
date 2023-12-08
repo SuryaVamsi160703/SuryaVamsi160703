@@ -1,4 +1,5 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40oninross%2Fdo-full-stack-developers-exist-or-are-they-just-wishful-thinking-2b7f5863af63&psig=AOvVaw3_88L5myI9r_nQR2L7v_E5&ust=1702146653013000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjZ4sq8gIMDFQAAAAAdAAAAABAI
+![1 yw0TnheAGN-LPneDaTlaxw](https://github.com/SuryaVamsi160703/SuryaVamsi160703/assets/119938692/2e96a00e-c9d2-40ec-a1f7-8a5090c5eb1a)
+
 <h1 align="center">Hi 👋, I'm Surya Vamsi</h1>
 <h3 align="center">A passionate problem solver from India with excellent programming skills, creativity, and prototyping abilities.</h3>
 
