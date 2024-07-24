@@ -1,20 +1,4 @@
 
-  <a href="https://www.linkedin.com/in/surya-vamsi-vadlana-16b36a216/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-    <a href="https://www.instagram.com/suryavamsi_200.4v/">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=black" alt="Insta Badge"/>
-  </a>
-</div>
-      <!-- <img src="https://github.com/SuryaVamsi160703/SuryaVamsi160703/assets/119938692/9b5cbb4e-41f0-4067-a6c1-25af05c24f7b" alt="github views count"/> -->
-      <!-- <h1>
-      Hey there, <span>👋</span> 
-      </h1> -->
-      <!-- <div align="center"> <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> </div> -->
-</div>
-
-<!-- ![vamsi](https://github.com/SuryaVamsi160703/SuryaVamsi160703/assets/119938692/9b5cbb4e-41f0-4067-a6c1-25af05c24f7b) -->
-
 
 <h1 align="center">Hi 👋, I'm Surya Vamsi</h1>
 <h3 align="center">A passionate problem solver with excellent programming skills, creativity, and prototyping abilities.</h3>
