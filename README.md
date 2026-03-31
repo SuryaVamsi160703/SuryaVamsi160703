@@ -29,7 +29,7 @@
   <a href="https://www.linkedin.com/in/surya-vamsi-vadlana-16b36a216/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-    <a href="https://www.instagram.com/suryavamsi_200.4v/">
+    <a href="https://www.instagram.com/ft.suryavamsi/">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=black" alt="Insta Badge"/>
   </a>
 </div>
