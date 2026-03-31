@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=black" alt="Insta Badge"/>
   </a>
 </div>
-      <img src="https://github.com/SuryaVamsi160703/SuryaVamsi160703/assets/119938692/9b5cbb4e-41f0-4067-a6c1-25af05c24f7b" alt="github views count"/>
+      <!-- <img src="https://github.com/SuryaVamsi160703/SuryaVamsi160703/assets/119938692/9b5cbb4e-41f0-4067-a6c1-25af05c24f7b" alt="github views count"/> -->
       <!-- <h1>
       Hey there, <span>👋</span> 
       </h1> -->
